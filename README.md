@@ -1,2 +1,2 @@
 # Dusk-till-Dusk
-Content for the Sutekh 2026 Dusk till Dusk Westmarch campaign
+Content for the Sutekh 2026 Dusk till Dusk Westmarch campaign.
