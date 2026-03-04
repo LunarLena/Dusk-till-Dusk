@@ -1,5 +1,5 @@
 {
-	"siteVersion": "2.24.3",
+	"siteVersion": "2.25.1",
 	"fileType": "content-blocklist",
 	"blocklist": [
 		{
@@ -175,6 +175,20 @@
 			"hash": "*",
 			"category": "*",
 			"source": "CoS",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "CrookedMoon14",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "CrookedMoon24",
 			"isAuto": false
 		},
 		{
@@ -734,6 +748,13 @@
 			"displayName": "*",
 			"hash": "*",
 			"category": "*",
+			"source": "NF",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
 			"source": "NRH-ASS",
 			"isAuto": false
 		},
@@ -791,6 +812,13 @@
 			"hash": "*",
 			"category": "*",
 			"source": "ObojimaTallGrass",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "OneShotWondersHolidayPack",
 			"isAuto": false
 		},
 		{
@@ -882,6 +910,13 @@
 			"hash": "*",
 			"category": "*",
 			"source": "PotA",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "Pugilist2024",
 			"isAuto": false
 		},
 		{
@@ -1085,6 +1120,13 @@
 			"hash": "*",
 			"category": "*",
 			"source": "TTP",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "TalDoreiCampaignSettingReborn",
 			"isAuto": false
 		},
 		{
@@ -1308,31 +1350,77 @@
 			"displayName": "*",
 			"hash": "*",
 			"category": "*",
-			"source": "DrDe"
+			"source": "XUA2024Artificer",
+			"isAuto": false
 		},
 		{
 			"displayName": "*",
 			"hash": "*",
 			"category": "*",
-			"source": "XScreen"
+			"source": "XUA2025ApocalypticSubclasses",
+			"isAuto": false
 		},
 		{
 			"displayName": "*",
 			"hash": "*",
 			"category": "*",
-			"source": "HFDoMM"
+			"source": "XUA2025ArcaneSubclasses",
+			"isAuto": false
 		},
 		{
 			"displayName": "*",
 			"hash": "*",
 			"category": "*",
-			"source": "XMM"
+			"source": "XUA2025ArcaneUpdates",
+			"isAuto": false
 		},
 		{
 			"displayName": "*",
 			"hash": "*",
 			"category": "*",
-			"source": "XSAC"
+			"source": "XUA2025EberronUpdates",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "XUA2025ForgottenRealmsSubclasses",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "XUA2025HorrorSubclasses",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "XUA2025Psion",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "XUA2025PsionUpdate",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "XUA2025SubclassesUpdate",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "HelianasGuidetoMonsterHunting"
 		}
 	]
 }
