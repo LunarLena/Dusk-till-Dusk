@@ -1,5 +1,5 @@
 {
-	"siteVersion": "2.25.1",
+	"siteVersion": "2.25.4",
 	"fileType": "content-blocklist",
 	"blocklist": [
 		{
@@ -518,6 +518,13 @@
 			"hash": "*",
 			"category": "*",
 			"source": "HFStCM",
+			"isAuto": false
+		},
+		{
+			"displayName": "*",
+			"hash": "*",
+			"category": "*",
+			"source": "HelianasGuidetoMonsterHunting",
 			"isAuto": false
 		},
 		{
@@ -1420,7 +1427,7 @@
 			"displayName": "*",
 			"hash": "*",
 			"category": "*",
-			"source": "HelianasGuidetoMonsterHunting"
+			"source": "GHPG"
 		}
 	]
 }
